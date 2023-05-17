@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+This is a serverless Web-Application that enables the user to share any fact they want to, with the facility of votings.
 In the project directory, you can run:
 
 ### `npm start`
